@@ -9,17 +9,17 @@
     "scheme": "myapp",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
-    "owner": "yocode",
+    "owner": "joejy",
     "platforms": ["ios", "android"],
     "assetBundlePatterns": [
       "**/*"
     ],
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.yocode.inplanted"
+      "bundleIdentifier": "com.joejy.inplanted"
     },
     "android": {
-      "package": "com.yocode.inplanted",
+      "package": "com.joejy.inplanted",
       "adaptiveIcon": {
         "foregroundImage": "https://play-lh.googleusercontent.com/vVKdCpiq1-CdpbXEKU9QhxN6hxnGkduBIubSCxEVErFWhjmnkdKdOrTJcMwY1Gc3Vw",
         "backgroundColor": "#2E7D32"
@@ -41,7 +41,7 @@
         "origin": false
       },
       "eas": {
-        "projectId": "inplanted-app"
+        "projectId": "966656e2-374b-4110-8b01-ebeb52019b44"
       }
     }
   }
