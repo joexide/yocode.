@@ -1,5 +1,7 @@
 *#ProjectHE5.0 - liceu*
 
+Team: YoCode
+
 High-school: Liceul Teologic Adventist Stefan Demetrescu, Bucuresti
 
 Technology: React-Native, Expo-Go, Visual Studio, OpenRouter API, Supabase
