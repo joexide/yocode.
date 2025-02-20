@@ -1,4 +1,4 @@
-#ProjectHE5.0 - liceu
+*#ProjectHE5.0 - liceu*
 
 High-school: Liceul Teologic Adventist Stefan Demetrescu, Bucuresti
 
