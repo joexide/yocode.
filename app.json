@@ -1,0 +1,48 @@
+{
+  "expo": {
+    "name": "InPlanted",
+    "slug": "inplanted",
+    "description": "Your personal AI-powered gardening companion",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "https://play-lh.googleusercontent.com/vVKdCpiq1-CdpbXEKU9QhxN6hxnGkduBIubSCxEVErFWhjmnkdKdOrTJcMwY1Gc3Vw",
+    "scheme": "myapp",
+    "userInterfaceStyle": "automatic",
+    "newArchEnabled": true,
+    "owner": "yocode",
+    "platforms": ["ios", "android"],
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.yocode.inplanted"
+    },
+    "android": {
+      "package": "com.yocode.inplanted",
+      "adaptiveIcon": {
+        "foregroundImage": "https://play-lh.googleusercontent.com/vVKdCpiq1-CdpbXEKU9QhxN6hxnGkduBIubSCxEVErFWhjmnkdKdOrTJcMwY1Gc3Vw",
+        "backgroundColor": "#2E7D32"
+      }
+    },
+    "plugins": ["expo-router"],
+    "experiments": {
+      "typedRoutes": true,
+      "tsconfigPaths": true
+    },
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/inplanted-app"
+    },
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "inplanted-app"
+      }
+    }
+  }
+}
