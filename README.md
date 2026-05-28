@@ -12,5 +12,5 @@ Demo(audio): https://youtube.com/shorts/0Ue_goffdVE?si=0uA4oFiFoNpZKsXY
 
 Demo: https://youtube.com/shorts/2F4qwepqmbs?si=ASXQ4HVYJ8w-i6oh
 
-Pitch: https://www.youtube.com/watch?v=1dFajHj9Xh0
+
 
